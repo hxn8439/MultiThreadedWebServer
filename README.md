@@ -45,7 +45,9 @@ Alternate: navigate through source folder in CLI using command prompt and type p
 # Client-side: 
 
 1. Open browser(any web browser)
+
 2. For HTTP validation: type https://127.0.0.1:8080/index.html
+
 3. Review incoming connection and handling on the server side. Note: Windows 10 security prevent
 unauthorized ssl connection(ERR_SSL_PROTOCOL_ERROR), make sure to turn off all security 
 countermeasure and open port 80 and 443 in order to execute the hmtl file. Note the exception 
@@ -54,7 +56,9 @@ handling on the server side when a 404 error has occurred. Look for this error o
 software in your host machine)
 
 4.For Client connection: Open visual studio code for client.py
+
 5. Run python file in the terminal by clicking on the compile button.
 Alternate: navigate through source folder in CLI using visual studio code and type python client.py
+
 6. observe the client-server handling on both sides of the command prompt terminal. All data information
 shall be included as per requirement of the assignment.
