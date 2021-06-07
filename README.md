@@ -3,10 +3,15 @@
 # References
 
 #1.https://www.youtube.com/watch?v=o_ZpjmZ-uBM&t=1s
+
 #2.https://bedfordsarah.wordpress.com/2013/10/29/python-socket-programming-project-1-http-web-server/
+
 #3.https://www.positronx.io/create-socket-server-with-multiple-clients-in-python/#:~:text=%20Python%20Multithreading%20Example%3A%20Create%20Socket%20Server%20with,in%20Python.%20The%20server%20must%20run...%20More%20
+
 #4.https://docs.python.org/2/library/socket.html
+
 #5.https://docs.python.org/2/howto/sockets.html
+
 #6.http://www.wellho.net/resources/ex.php4?item=y303/browser.py
 
 # Purpose:
@@ -16,8 +21,11 @@ and concepts related to multi-threading and server-client socket handling.
 
 # Source files:
 1.client.py
+
 2.server.py
+
 3.index.html
+
 4.dog.jpeg
 
 # Compilation/Execution Procedures:
