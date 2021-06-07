@@ -52,6 +52,7 @@ countermeasure and open port 80 and 443 in order to execute the hmtl file. Note 
 handling on the server side when a 404 error has occurred. Look for this error on server:
 (ConnectionAbortedError: [WinError 10053] An established connection was aborted by the 
 software in your host machine)
+
 4.For Client connection: Open visual studio code for client.py
 5. Run python file in the terminal by clicking on the compile button.
 Alternate: navigate through source folder in CLI using visual studio code and type python client.py
