@@ -30,7 +30,9 @@ and concepts related to multi-threading and server-client socket handling.
 
 # Compilation/Execution Procedures:
 ##make sure to run the code on Windows 10 operating system##
+
 ##make sure to install python current on system##
+
 ##make sure to install visual studio code with required python interpretor##
 
 # Server-side:
